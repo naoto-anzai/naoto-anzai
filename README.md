@@ -1,4 +1,4 @@
-## This is Naoto's PortFolio
+# This is Naoto's PortFolio
 
 
 ### 🔭 I’m currently studying on
@@ -10,7 +10,8 @@ NagaokaUT
     - Softwere Engineering Intro
   - Personal
     - Matso Lab DL Basic 2026 Spring
-    - HTML and CSS and JS Fundamentals 
+    - HTML and CSS and JS Fundamentals
+    - AtCoder
 ### 👯 I’m looking to collaborate on
   - AI research and development
     - DL technology
@@ -31,6 +32,7 @@ NagaokaUT
     - Modern CSS
     - TypeScript bestpractice
 ### 💬 Ask me about (Ask me again in a few years!)
+  - AtCoder
   - DL Method
   - Deep Reinforcement Learning
   - Philosophy and Science of Mind
